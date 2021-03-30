@@ -1,16 +1,31 @@
 # pizza
 
-A new Flutter project.
+A Pizza Flutter Project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For Web & Mobile.
 
-A few resources to get you started if this is your first Flutter project:
+For run this on web run:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+    ```shell
+flutter run -d chrome
+```
+For run this on mobile or emulator:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ```shell
+flutter run
+```
+
+Be ensure you have download the packages, for this run:
+
+```shell
+flutter pub get
+```
+Or:
+
+```shell
+flutter packages get
+```
+
+![Pizza running](running.png)
