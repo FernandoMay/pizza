@@ -8,12 +8,12 @@ For Web & Mobile.
 
 For run this on web run:
 
-    ```shell
+```shell
 flutter run -d chrome
 ```
 For run this on mobile or emulator:
 
-    ```shell
+```shell
 flutter run
 ```
 
