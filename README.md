@@ -1,24 +1,31 @@
 # pizza
 
-Pizza!!!
-
-## Overview
-
-| Attribute | Details |
-|-----------|---------|
-| **Language** | Dart |
-| **Size** | ~2.5 MB |
-| **Last Updated** | 2021-03-30T01:20:36Z |
+A Pizza Flutter Project.
 
 ## Getting Started
 
-```bash
-git clone https://github.com/FernandoMay/pizza.git
-cd pizza
-flutter pub get
+For Web & Mobile.
+
+For run this on web run:
+
+```shell
+flutter run -d chrome
+```
+For run this on mobile or emulator:
+
+```shell
 flutter run
 ```
 
-## License
+Be ensure you have download the packages, for this run:
 
-MIT
+```shell
+flutter pub get
+```
+Or:
+
+```shell
+flutter packages get
+```
+
+![Pizza running](running.png)
